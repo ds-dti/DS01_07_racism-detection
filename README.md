@@ -2,6 +2,9 @@
 
 This repository is the final project to complete the Telkom Digital Talent Incubator 2020 program. This research project was created as our contribution as a Telkom DTI 2020 Data Scientist to the UN Sustainable Development Goals 2030 program in the social justice and humanities fields to realize racial equality in communities worldwide. 
 
+![Poster](https://github.com/alfhi24/FinalProjectDTI/blob/main/poster.jpg)
+
+
 ## Dataset
 The dataset used is a collection of racist tweets in Indonesian. This dataset contains 511 rows labeled `Non-Racism` and 175 rows labeled `Racism`. You can see the dataset in the following link:
 
