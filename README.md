@@ -1,6 +1,6 @@
 # Final Project DTI - Indonesian Tweet Racism Detection
 
-This repository is the final project to complete the Telkom Digital Talent Incubator 2020 program. This research project was created as our contribution as a Telkom DTI 2020 Data Scientist to the UN Sustainable Development Goals 2030 program in the social justice and humanities fields to realize racial equality in communities worldwide. 
+This repository is the final project to complete the Telkom Digital Talent Incubator 2020 program. This research project was created as our contribution as a Telkom DTI 2020 Data Scientist to the UN Sustainable Development Goals 2030 program in the social justice and humanities fields to realize racial equality in communities worldwide.
 
 ![Poster](https://github.com/alfhi24/FinalProjectDTI/blob/main/poster.jpg)
 
@@ -10,7 +10,7 @@ The dataset used is a collection of racist tweets in Indonesian. This dataset co
 
 https://raw.githubusercontent.com/asthala/racism-detection/master/datasetfix.csv
 
-This how the dataset looks like in wordcloud : 
+This how the dataset looks like in wordcloud :
 
 ![Racism Wordcloud](https://github.com/alfhi24/FinalProjectDTI/blob/main/racismwordcloud.png)
 
@@ -43,4 +43,4 @@ The model is build using the Multi Layer Perceptron or MLP architecture. The act
 - Muhammad Alfhi Saputra
 - Tigas Adrian Wahyuindrajati
 - Crisnandra Rahmita Mardiantien
-- La Ode Muhammad Sofyan Syarafa
+- La Ode Muhamad Sofyan Syarafa
